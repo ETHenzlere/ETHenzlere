@@ -1,3 +1,1 @@
-Hi, I'm Eric 
-Master student at ETH Zurich
-Computer Science
+Hi, I'm Eric. Master student at ETH Zurich focusing on CS
